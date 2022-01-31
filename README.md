@@ -1,2 +1,2 @@
-# java-onepager
-Resumo da sintaxe e principais funções de java em "uma página" (onepager)
+# One-pagers
+Resumo da sintaxe e principais funções de linguagens e IDEs em "uma página" (onepager)
